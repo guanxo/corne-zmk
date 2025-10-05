@@ -40,27 +40,27 @@
         };
         combo_undo {
             timeout-ms = <50>;
-            key-positions = <52 53>;
+            key-positions = <24 25>;
             bindings = <&kp LC(Z)>;
         };
         combo_redo {
             timeout-ms = <50>;
-            key-positions = <53 54>;
+            key-positions = <25 26>;
             bindings = <&kp LC(Y)>;
         };
         combo_copy {
             timeout-ms = <50>;
-            key-positions = <42 43>;
+            key-positions = <26 27>;
             bindings = <&kp LC(C)>;
         };
         combo_paste {
             timeout-ms = <50>;
-            key-positions = <43 44>;
+            key-positions = <27 28>;
             bindings = <&kp LC(V)>;
         };
         combo_save {
             timeout-ms = <50>;
-            key-positions = <37 38>;
+            key-positions = <29 30>;
             bindings = <&kp LC(S)>;
         };
         combo_up {
