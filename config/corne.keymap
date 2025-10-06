@@ -115,7 +115,7 @@
                         bindings = <
    &kp F11   &kp F1   &kp F2   &kp F3 &kp F4   &kp F5          &kp LS(N7)  &kp RBKT  &kp RA(N8)     &kp RA(N9)   &kp LS(RBKT)    &kp UNDER
    &kp F12  &kp F6    &kp F7 &kp MINUS  &kp AT_SIGN   &kp F10   &kp EXCL   &kp LS(N0)  &kp LS(N8)   &kp LS(N9)    &kp RA(MINUS) &kp RA(N4)
-   &kp CAPS  &trans       &trans       &trans       &trans       &trans         &kp QUESTION  &kp SLASH  &kp RA(N7) &kp RA(N0)  &kp LS(DOT) &mt CAPS
+   &kp CAPS  &trans       &trans       &trans       &trans       &trans         &kp QUESTION  &kp SLASH  &kp RA(N7) &kp RA(N0)  &kp LS(DOT) &kp CAPS
                                     &kp LGUI     &trans       &kp SPACE      &kp RET  &trans   &kp RALT
                         >;
                 };
