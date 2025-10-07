@@ -120,7 +120,7 @@
                         bindings = <
    &kp F11   &kp F1   &kp F2   &kp F3     &kp F4       &kp F5      &kp LS(N7)  &kp RBKT  &kp RA(N8)     &kp RA(N9)   &kp LS(RBKT)    &kp UNDER
    &kp CAPS   &kp F6   &kp F7   &kp MINUS  &kp AT_SIGN  &kp CARET     &kp EXCL    &kp LS(N0)  &kp LS(N8)   &kp LS(N9)    &kp RA(MINUS) &kp RA(N4)
-   &kp CAPS  &trans   &trans   &kp LS(N5)     &kp LS(N6)       &kp LS(4)     &kp AT_SIGN &mo QUESTION SLASH  &kp RA(N7) &kp RA(N0)  &kp LS(DOT) &kp CAPS
+   &kp CAPS  &trans   &trans   &kp LS(N5)     &kp LS(N6)       &kp LS(4)     &kp AT_SIGN &mt QUESTION SLASH  &kp RA(N7) &kp RA(N0)  &kp LS(DOT) &kp CAPS
                                     &kp LGUI     &trans       &kp SPACE      &kp RET  &trans   &kp RALT
                         >;
                 };
